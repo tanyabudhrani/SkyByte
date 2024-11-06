@@ -2,10 +2,6 @@
 
 # 🚆 SkyByte - Luxury Reimagined ✈️
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://github.com/tanyabudhrani/SkyByte)
-[![JavaScript](https://img.shields.io/badge/JavaScript-95%25-yellow.svg)](https://github.com/tanyabudhrani/SkyByte)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 *Transforming intermodal transportation across the Greater Bay Area*
 
 [Overview](#overview) • [Features](#core-features) • [Benefits](#benefits) • [Getting Started](#getting-started)
