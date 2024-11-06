@@ -1,77 +1,100 @@
-# SkyByte - Luxury Reimagined
+<div align="center">
 
-![SkyByte Logo](src/assets/logo.png)
+# 🚆 SkyByte - Luxury Reimagined ✈️
 
-## Overview
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://github.com/tanyabudhrani/SkyByte)
+[![JavaScript](https://img.shields.io/badge/JavaScript-95%25-yellow.svg)](https://github.com/tanyabudhrani/SkyByte)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+*Transforming intermodal transportation across the Greater Bay Area*
+
+[Overview](#overview) • [Features](#core-features) • [Benefits](#benefits) • [Getting Started](#getting-started)
+
+</div>
+
+---
+
+## 🌟 Overview
 
 SkyByte revolutionizes travel across the Greater Bay Area by combining seamless intermodal transportation with premium experiences. Our platform transforms Asia Miles redemption through a tokenized system that connects various transportation modes (air, rail, ferry) while offering luxury services, creating an integrated journey from start to finish.
 
-## Core Features
+## 🎯 Core Features
 
-### Intermodal Integration
-- **Multi-Modal Connections**
-  - Air-to-Rail transfers
-  - Ferry connections
-  - Local transit integration
-  - Cross-border transportation
+### 🔄 Intermodal Integration
+<details>
+<summary><b>Multi-Modal Connections</b></summary>
 
-- **Smart Routing**
-  - Real-time schedule coordination
-  - Optimized transfer times
-  - Alternative route suggestions
-  - Dynamic pricing across modes
+- 🛫 Air-to-Rail transfers
+- ⛴️ Ferry connections
+- 🚇 Local transit integration
+- 🛂 Cross-border transportation
+</details>
 
-### Premium Travel Experience
-- **LuxByte Tokens System**
-  - Fast-pass boarding for all transport modes
-  - Premium waiting lounges at stations
-  - Priority check-in across stations
-  - Cross-border luggage delivery
+<details>
+<summary><b>Smart Routing</b></summary>
 
-### Regional Coverage
-- Macau Stations
-- Hong Kong Transit Points
-- Guangdong Transportation Hubs
-- Greater Bay Area Connectivity
+- ⏰ Real-time schedule coordination
+- ⚡ Optimized transfer times
+- 🔄 Alternative route suggestions
+- 💱 Dynamic pricing across modes
+</details>
 
-## Benefits
+### 💎 Premium Travel Experience
+<details>
+<summary><b>LuxByte Tokens System</b></summary>
 
-### For Passengers
-- **Seamless Transfers**: Smooth transitions between different transport modes
-- **Unified Booking**: Single platform for all transportation needs
-- **Flexible Redemption**: Use Asia Miles across various transport options
-- **Premium Access**: Luxury services available at strategic points
-- **Cost Optimization**: Dynamic pricing across different transport modes
+- 🎟️ Fast-pass boarding for all transport modes
+- 🛋️ Premium waiting lounges at stations
+- ✨ Priority check-in across stations
+- 🧳 Cross-border luggage delivery
+</details>
 
-### For Transportation Partners
-- **Increased Revenue**: New monetization opportunities
-- **Resource Optimization**: Better capacity utilization
-- **Data Insights**: Cross-modal passenger behavior analysis
-- **Enhanced Loyalty**: Integrated rewards program
+### 🗺️ Regional Coverage
+- 🎰 Macau Stations
+- 🌆 Hong Kong Transit Points
+- 🌉 Guangdong Transportation Hubs
+- 🌏 Greater Bay Area Connectivity
 
-## Implementation Strategy
+## ✨ Benefits
+
+### 👥 For Passengers
+| Benefit | Description |
+|---------|-------------|
+| 🔄 Seamless Transfers | Smooth transitions between different transport modes |
+| 📱 Unified Booking | Single platform for all transportation needs |
+| 💫 Flexible Redemption | Use Asia Miles across various transport options |
+| 👑 Premium Access | Luxury services available at strategic points |
+| 💰 Cost Optimization | Dynamic pricing across different transport modes |
+
+### 🤝 For Transportation Partners
+- 📈 **Increased Revenue**: New monetization opportunities
+- ⚙️ **Resource Optimization**: Better capacity utilization
+- 📊 **Data Insights**: Cross-modal passenger behavior analysis
+- 🎯 **Enhanced Loyalty**: Integrated rewards program
+
+## 🛠️ Implementation Strategy
 
 ### Technical Architecture
 SkyByte Platform
-├── Intermodal Routing Engine
-├── LuxByte Token System
-├── Transport Provider Integration
-├── Real-time Schedule Manager
-└── Super-App Integration (Meituan & Dianping)
+├── 🔄 Intermodal Routing Engine
+├── 🎟️ LuxByte Token System
+├── 🤝 Transport Provider Integration
+├── ⏰ Real-time Schedule Manager
+└── 📱 Super-App Integration (Meituan & Dianping)
 
 ### System Components
-- Multi-modal booking interface
-- Real-time transportation updates
-- Dynamic mile redemption calculator
-- Premium service marketplace
+- 🎯 Multi-modal booking interface
+- ⚡ Real-time transportation updates
+- 💱 Dynamic mile redemption calculator
+- 🛍️ Premium service marketplace
 
-## Getting Started
+## 🚀 Getting Started
 
-1. Clone the repository: git clone https://github.com/tanyabudhrani/SkyByte.git
-2. Install dependencies:
-    cd SkyByte
-    npm install
-3. Run the development server:
-     npm start
-
-
+1. **Clone the repository:**
+git clone https://github.com/tanyabudhrani/SkyByte.git
+2. **Install dependencies:**
+   cd SkyByte
+   npm install
+3. **Run the development server:**
+   npm start
+<div align="center">
